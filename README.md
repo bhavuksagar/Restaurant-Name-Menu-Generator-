@@ -1,5 +1,6 @@
 <h1>Restaurant Name & Menu Generator </h1>
 <p>A Gen-AI webapp build with huggingface open source LLM models and streamlit framework to generate the restaurant name and menu on the basis of the provided cuisine.</br>
+It build with <i>huggingfacendpoint</i> API feature which take the input from the front-end and send the data to the open source models and fetch the result on the basis of the defined prompt and send back the response on front-end.</br></br> 
 Model Used: tiiuae/falcon-7b-instruct - <a href="https://huggingface.co/tiiuae/falcon-7b-instruct">Huggingface</a></br>
 
 </p>
