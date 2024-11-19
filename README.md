@@ -11,7 +11,9 @@ Model Used: tiiuae/falcon-7b-instruct - <a href="https://huggingface.co/tiiuae/f
   </ul>
 </p>
 <h2>Sample Images</h2>
+<h4>1.</h4>
 <img src="https://github.com/bhavuksagar/Restaurant-Name-Menu-Generator-/blob/main/screenshots/Screenshot%202024-11-19%20at%204.31.50%20PM.png">
+<h4>2.</h4>
 <img src="https://github.com/bhavuksagar/Restaurant-Name-Menu-Generator-/blob/main/screenshots/Screenshot%202024-11-19%20at%204.32.06%20PM.png">
 
 
