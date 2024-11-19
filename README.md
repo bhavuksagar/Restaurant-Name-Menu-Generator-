@@ -8,13 +8,13 @@ Model Used: tiiuae/falcon-7b-instruct - <a href="https://huggingface.co/tiiuae/f
 <p>
   <ul>
     <li>Take the access token from huggingface and add it into the langchain_helper file</li>
-    <li>
-      '''
-      Run the app file by: Streamlit run app.py
-    '''
+    <li> Run the following command in terminal:
     </li>
   </ul>
 </p>
+'''
+Run the app file by: Streamlit run app.py
+'''
 <h2>Sample Images</h2>
 <h4>1.</h4>
 <img src="https://github.com/bhavuksagar/Restaurant-Name-Menu-Generator-/blob/main/screenshots/Screenshot%202024-11-19%20at%204.31.50%20PM.png">
