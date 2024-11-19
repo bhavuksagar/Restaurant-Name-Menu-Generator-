@@ -8,7 +8,11 @@ Model Used: tiiuae/falcon-7b-instruct - <a href="https://huggingface.co/tiiuae/f
 <p>
   <ul>
     <li>Take the access token from huggingface and add it into the langchain_helper file</li>
-    <li>Run the app file by: Streamlit run app.py</li>
+    <li>
+      '''
+      Run the app file by: Streamlit run app.py
+    '''
+    </li>
   </ul>
 </p>
 <h2>Sample Images</h2>
